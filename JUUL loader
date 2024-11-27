@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wasduiop/JUULScript/refs/heads/main/JUUL%20Script"))()
